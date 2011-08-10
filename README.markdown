@@ -15,8 +15,8 @@ You can either use http://getsparks.org to install via the spark installer.  Vis
 
 or
 
-1) Extract the archive you get from here.
-2) Put libraries/mobiledetection.php into your applications libraries diectory.
+1. Extract the archive you get from here.
+2. Put libraries/mobiledetection.php into your applications libraries diectory.
 
 
 #### Usage:
