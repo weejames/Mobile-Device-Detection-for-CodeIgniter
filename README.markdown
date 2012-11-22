@@ -23,7 +23,7 @@ or
 
 If you've installed via the spark then add the following to your controller.
 
-`$this->load->spark('mobiledetection');`
+`$this->load->spark('mobiledetection/x.x');`
 
 or 
 
